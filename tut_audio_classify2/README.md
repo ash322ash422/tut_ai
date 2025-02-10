@@ -1,0 +1,1 @@
+install librosa,  tqdm==4.67.1, resampy==0.4.3
