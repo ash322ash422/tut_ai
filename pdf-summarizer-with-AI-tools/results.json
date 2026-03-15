@@ -1,0 +1,28 @@
+[
+  {
+    "filename": "rep1.pdf",
+    "patient_name": "John Doe4",
+    "calcium": "9.7 mg/dl",
+    "calcium_range": "8.7 - 10.4",
+    "potassium": "5.03 mmol/L",
+    "potassium_range": "3.5 - 5.1",
+    "sodium": "145.0 mmol/L",
+    "sodium_range": "136 - 145",
+    "comments": [
+      "Calcium: 9.7 mg/dl is NORMAL (normal range: 8.7 - 10.4)",
+      "Potassium: 5.03 mmol/L is NORMAL (normal range: 3.5 - 5.1)",
+      "Sodium: 145.0 mmol/L is NORMAL (normal range: 136 - 145)"
+    ]
+  },
+  {
+    "filename": "rep2.pdf",
+    "patient_name": "John Doe4",
+    "calcium": null,
+    "calcium_range": null,
+    "potassium": null,
+    "potassium_range": null,
+    "sodium": null,
+    "sodium_range": null,
+    "comments": []
+  }
+]

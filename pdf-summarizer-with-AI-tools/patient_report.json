@@ -1,0 +1,10 @@
+{
+  "patient_name": "John Doe4",
+  "filename": "rep1.pdf",
+  "comments": [
+    "Calcium: 9.7 mg/dl is NORMAL (normal range: 8.7 - 10.4)",
+    "Potassium: 5.03 mmol/L is NORMAL (normal range: 3.5 - 5.1)",
+    "Sodium: 145.0 mmol/L is NORMAL (normal range: 136 - 145)"
+  ],
+  "ai_report": "### Clinical Summary:\nThe laboratory results for John Doe4 indicate that all measured electrolytes are within normal ranges:\n- **Calcium**: 9.7 mg/dL (Normal range: 8.7 - 10.4 mg/dL)\n- **Potassium**: 5.03 mmol/L (Normal range: 3.5 - 5.1 mmol/L)\n- **Sodium**: 145.0 mmol/L (Normal range: 136 - 145 mmol/L)\n\n### Recommendations:\n- No immediate clinical intervention is necessary as all values are within normal limits.\n- Continue routine monitoring of electrolytes as part of regular health check-ups.\n- Maintain a balanced diet to support electrolyte balance.\n- Encourage the patient to stay hydrated and follow any specific dietary or lifestyle recommendations provided by their healthcare provider.\n\n### Note:\n- Always consult a qualified physician for comprehensive evaluation and personalized medical advice."
+}
